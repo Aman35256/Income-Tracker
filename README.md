@@ -3,7 +3,7 @@
 An interactive, lightweight web app to help you **track income & expenses**, visualize cash flow, and gain clarity in spending habits.  
 Built using **HTML, CSS, and JavaScript**.
 
-Live demo: [income-tracker‑ruddy.vercel.app](https://income-tracker-ruddy.vercel.app) ([github.com](https://github.com/Aman35256/Income-Tracker))
+Live demo: [income-tracker‑aman.vercel.app/](https://income-tracker-aman.vercel.app/)
 
 ---
 
